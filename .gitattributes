@@ -1,3 +1,4 @@
-* text=auto
+*       text=auto
+*.bat   eol=crlf
 #*.bat text eol=crlf
-*.bat -crlf
+#*.bat -crlf
