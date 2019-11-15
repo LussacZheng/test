@@ -2,7 +2,7 @@ name: 'video-downloader-updater'
 
 on:
   schedule:
-  - cron: "20/15 * * * *"
+  - cron: "15/5 * * * *"
 
 jobs:
   build:
