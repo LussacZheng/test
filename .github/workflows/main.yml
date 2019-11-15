@@ -14,4 +14,3 @@ jobs:
       run: echo test1
     - name: Run a multi-line script
       uses: LussacZheng/video-downloader-updater@master
-      run: echo test3
