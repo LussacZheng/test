@@ -1,0 +1,5 @@
+# 2
+
+This is an another new file.
+
+For the test of `git pull` .
